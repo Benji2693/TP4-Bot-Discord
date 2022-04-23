@@ -1,3 +1,0 @@
-n'est pas humain
-il le fait de facon programmé.
-on va lui dire de faire la journalisaton (reagarder des logs,ligne de commandes, en fichier ect)
